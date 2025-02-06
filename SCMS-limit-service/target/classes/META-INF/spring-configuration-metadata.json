@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "limit-service",
+      "type": "com.hr.scms.config.Configuration",
+      "sourceType": "com.hr.scms.config.Configuration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "limit-service.max",
+      "type": "java.lang.Integer",
+      "sourceType": "com.hr.scms.config.Configuration"
+    },
+    {
+      "name": "limit-service.min",
+      "type": "java.lang.Integer",
+      "sourceType": "com.hr.scms.config.Configuration"
+    }
+  ],
+  "hints": []
+}
