@@ -4,6 +4,10 @@ import java.io.Serializable;
 
 public class Limits implements Serializable {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private int min;
 	private int max;
 
